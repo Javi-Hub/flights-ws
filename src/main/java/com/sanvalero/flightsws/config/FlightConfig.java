@@ -24,7 +24,7 @@ public class FlightConfig {
                                 .description("Ejercicio OpenAPI Flights")
                                 .contact(new Contact()
                                         .name("Javi")
-                                        .email("javidark2@hotmail.com")
+                                        .email("javi@mail.com")
                                         .url("https://datos.codeandcoke.com"))
                                 .version("1.0"));
     }
